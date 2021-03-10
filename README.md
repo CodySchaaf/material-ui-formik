@@ -1,6 +1,6 @@
 # material-ui-formik
 
-When using just using material-ui and importing a single component like `<Checkbox />` you can see material
+When just using material-ui and importing a single component like `<Checkbox />` you can see material
 only adds 12.35KB (gzipped)
 
 ![Image Not Using formik-material-ui](./not%20using%20formik-material-ui.png)
