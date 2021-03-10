@@ -6,7 +6,7 @@ const buildPath = path.resolve(__dirname, 'dist');
 
 module.exports = {
     mode: 'production',
-    devtool: 'source-map',
+    devtool: false,
     entry: './src/index.jsx',
     output: {
         filename: '[name].[contenthash].js',
