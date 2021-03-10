@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Formik, Form, Field } from 'formik';
-import { Checkbox } from 'formik-material-ui';
+import { Checkbox } from '@material-ui/core';
 
 export const App = () => {
 	return (
